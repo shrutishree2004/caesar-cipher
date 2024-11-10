@@ -22,7 +22,7 @@ The Caesar cipher is a simple encryption technique that replaces each letter in 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/caesar-cipher.git
+   git clone https://github.com/shrutishree2004/caesar-cipher.git
    cd caesar-cipher `
 
 1.  Run the program:
